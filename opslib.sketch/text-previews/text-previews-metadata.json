@@ -901,7 +901,7 @@
 "8B3C63E0-DFAC-4751-B612-186E47108CB4":{
 "_class":"NSValue",
 "type":"rect",
-"value":"{66, 22, 167, 16}"
+"value":"{65, 11, 167, 16}"
 },
 "6B874310-22D2-4178-9D08-B263B98CC7AF":{
 "_class":"NSValue",
@@ -2646,7 +2646,7 @@
 "E783E307-A00D-4BF0-BE3C-FD0247FB51C4":{
 "_class":"NSValue",
 "type":"rect",
-"value":"{67, 69, 167, 32}"
+"value":"{66, 64, 167, 32}"
 },
 "DEEBB52E-4076-404B-B7D8-76B4898A75E9":{
 "_class":"NSValue",
@@ -2851,7 +2851,7 @@
 "51F0C8DB-748D-4318-A5F3-9572EDE56EF7":{
 "_class":"NSValue",
 "type":"rect",
-"value":"{10, 1, 167, 16}"
+"value":"{66, 41, 167, 16}"
 },
 "1547368A-8788-472C-886A-6AC10A075DA5":{
 "_class":"NSValue",
